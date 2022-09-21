@@ -1249,7 +1249,7 @@ namespace Baconit
         /// <returns></returns>
         private async Task<double> SetStatusBar_Internal(Color? color = null, double opacity = 1)
         {
-            StatusBar statusbar = StatusBar.GetForCurrentView();
+            StatusBar statusbar = Windows.UI.ViewManagement.StatusBar.GetForCurrentView();
             if (statusbar != null)
             {
                 if (color.HasValue)
