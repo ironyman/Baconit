@@ -4,4 +4,4 @@ If the user wishes to logon, this app will cache the Reddit logon token of the u
 
 Use of Reddit will incur data collection by Reddit services see here https://www.reddit.com/policies/privacy-policy.
 
-Developer of this app does not collect any data.
+This app collects telemetry regarding actions taken by users, for example, voting, reviewing, commenting. 
